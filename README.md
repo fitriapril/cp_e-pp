@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ravialdo/pembayaran-spp/blob/master/public/img/1.PNG" width="600"></p>
+<p align="center"><img src="https://github.com/fitriapril/cp_e-pp/blob/main/public/assets/images/Picture1.png" width="600"></p>
 
 <p align="center">
     <h1>E-Pembayaran SPP</h1>
